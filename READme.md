@@ -21,7 +21,7 @@
   __tests__ folder
 
   ### Questions
-  wfh2d88@gmail.com <br> 
+  wfelixhunt@gmail.com <br> 
 
   https://github.com/wfelixhunt
 
