@@ -27,6 +27,6 @@
     "handlebars": "^4.7.7",
     "helpers": "0.0.6",
     "mysql2": "^2.2.5",
-    "sequelize": "^6.6.2"
+    "sequelize": "^6.12.4"
   }
 }

@@ -4,6 +4,7 @@
   <img src = "screenshot.png" >
   
   ### Table of Contents
+  * [Live Site](https://github.com/wfelixhunt/Advance-It)
   * [Description](#project-description)
   * [Contribution](#contributions)
   * [Tests](#tests)
@@ -22,9 +23,9 @@
   ### Questions
   wfh2d88@gmail.com <br> 
 
-  https://github.com/william-hunt88
+  https://github.com/wfelixhunt
 
-  https://github.com/william-hunt88/Advance-It-
+  https://github.com/wfelixhunt/Advance-It
   
   
   Licensed under the [MIT](https://github.com/william-hunt88/Advance-It-/blob/main/LICENSE.txt) license
